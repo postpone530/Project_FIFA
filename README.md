@@ -34,8 +34,3 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset
 #### 2. 스탯 데이터를 통한 포지션별 분류
 #### 3. 각 포지션에서 중요하게 판단되는 스탯(및 능력)
  
-
-
-
-
-
