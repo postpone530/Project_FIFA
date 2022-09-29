@@ -27,6 +27,7 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset
 
 이처럼 FIFA 게임 시리즈 내 스탯 데이터를 바탕으로, 그 선수의 포지션을 **분류(Classfication)** 하려 합니다.
 
+---
 
 ### 분석 목표
 #### 1. 스탯 데이터의 전처리 및 시각화
