@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset
 
 이 중 제가 가장 주목한 포인트는 포지션입니다.
 
+---
 
 우리는 축구를 시작할 때, 가장 먼저 어느 포지션에서 뛰어야 할지를 생각합니다.
 
